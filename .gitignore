@@ -1,0 +1,27 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+*.venv
+*.venv/
+env/
+.env
+.env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyBuilder
+target/
+
+
+# PyCharm
+.idea/
+*.iml
